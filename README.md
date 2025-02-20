@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.ibb.co/3F6V9JQ/MHDDoS.png" width="400px" height="150px" alt="ddos"></p>
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 56 Methods</h1>
-<em><h5 align="center">(Programming Language - Python 3)</h5></em>
+<h1 align="center">MHDDoS - DDoS Attack Script With 1124 Methods</h1>
+<em><h2 align="center">(Programming Language - Python </h2></em>
 
 <p align="center">
 <a href="#"><img alt="MH-DDoS forks" src="https://img.shields.io/github/forks/ArminScoins/MHDDoS?style=for-the-badge"></a>
@@ -137,10 +137,10 @@ pip install -r requirements.txt
 **One-Line Installing on Fresh VPS**
 
 ```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/ArminScoins/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
+apt -y update && apt -y install curl wget libcurl4 libssl-dev python2 python3 -y pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/ArminScoins/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
 ```
 
-[python3]: https://python.org 'Python3'
+[python3]: https://python.org 'Python3 -y'
 [github issues]: https://github.com/ArminScoins/MHDDoS/issues 'enter'
 
 ---
